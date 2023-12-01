@@ -9,7 +9,7 @@ Este é um programa desenvolvido em Java com Spring Framework para realizar oper
 
 ## Configuração
 
-1. Clone o repositório: `git clone https://github.com/gazz-w/Sistematizacao
+1. Clone o repositório: `git clone https://github.com/gazz-w/Sistematizacao.git
 2. Importe o projeto na sua IDE favorita (Eclipse, IntelliJ IDEA, etc.)
 3. Configure as credenciais do banco de dados no arquivo `application.properties`
 4. Execute a aplicação
